@@ -46,3 +46,6 @@ goto :end
 :end
 endlocal
 exit /b
+
+rem © The Paciello Group. All rights reserved.
+rem For license information, refer to the JAWS Inspect User License Agreement 

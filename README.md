@@ -17,7 +17,7 @@ Running jispeak.cmd with the 'on' option will enable the JAWS Inspect speech cap
 
 > Capturing JAWS Inspeak speech output to &lt;path to log&gt;
   
-If the log file already exists, the batch file will prompt to overwrite it before continuting.
+If the log file already exists, the batch file will prompt to overwrite it before continuing.
 
 > &lt;path to log&gt; already exists. If you continue, the file will be overwritten. Do you want to continue? [Y,N]?
   
